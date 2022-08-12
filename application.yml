@@ -14,5 +14,5 @@ info:
   author: Francieli Celeghim
   mail: francieliceleghim2013@gmail.com
 server:
-  port: ${PORT:9999}
+  port: ${PORT:8086}
 message: Generic
