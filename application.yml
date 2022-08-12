@@ -13,6 +13,7 @@ management:
 info:
   author: Francieli Celeghim
   mail: francieliceleghim2013@gmail.com
+  image: 'https://sm.ign.com/t/ign_br/screenshot/default/pokemon-pikachu-tatuagem_hwnn.280.jpg'
 server:
   port: ${PORT:8086}
 message: Generic
