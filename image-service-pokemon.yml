@@ -1,0 +1,4 @@
+server:
+  port: 8086
+image: 'https://sm.ign.com/t/ign_br/screenshot/default/pokemon-pikachu-tatuagem_hwnn.280.jpg'
+message: 'pikachu'
